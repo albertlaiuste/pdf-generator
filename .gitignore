@@ -1,4 +1,6 @@
 .idea
+.tox
+.coverage
 venv
 *.pyc
 .pytest_cache
