@@ -1,0 +1,1 @@
+Demo structure for new projects with random code snippets.
